@@ -8,6 +8,7 @@
 AtliQ Hardware is a company that manufactures and sells computers and their accessories to wide range of customers across the globe.The customers facilitate in providing the products to the end consumers through 
 - Brick&Mortar platform
 - E-commerce platform
+
 The products reach these platforms through various channels viz.,
 - Retailer
 - Direct
