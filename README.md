@@ -30,7 +30,6 @@ To generate a comprehensive sales and finance analytics report to aid in strateg
 
 **Finance Analysis**
 - Profit and Loss (P&L) by Month and Quarter
-- Net Sales Comparision between Years
 - Profit and Loss (P&L) for Markets
 - Quarterly Gross Margin % in sub-zones
 
